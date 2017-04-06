@@ -7,7 +7,9 @@ This repository contains all the materials for my application for the the positi
 Best regards,</br>
 Tiffany Timbers, Ph.D.
 
-### List of Contents:
+---
+
+#### List of Contents:
 - [Cover Letter](cover_letter/timbers_cover_letter.md)
 - [*Curriculum Vitae*](cv/timbers_cv.md)
 - [Statement of Vision for Data Science Education](ds_education_vision/timbers_ds_education_vision.md)
