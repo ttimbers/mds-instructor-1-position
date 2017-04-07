@@ -51,7 +51,7 @@ Honors Thesis Supervisor: Jayne E. Yack.
 
 2. **Teaching Fellow**, University of British Columbia, Vancouver, BC </br> Sept. 2016 - present </br>
 
-    - Supported the instruction of the following MDS courses via course coordination, lab curriculum development and lab content delivery and teaching assistant supervision.
+    - Supported the instruction of the following MDS courses via course coordination, lab curriculum development and content delivery, as well as teaching assistant supervision.
       - DSCI 523 - Data Wrangling
       - DSCI 552 - Statistical Inference and Computation I
       - DSCI 531 - Data Visualization I
@@ -77,7 +77,7 @@ Augusta, MI, Aug., 2015 </br>
 	The Software Carpentry Foundation is a non-profit organization whose instructors teach scientists and researchers basic software skills.</br>
 	* Held post-workshop debriefing for instructors </br>
 	* Developed micro-lesson training step in the Software Carpentry Instructor Certification Program </br>
-	* Organized 1st ever [Software + Data Carpentry Instructor & Helper Retreat](http://swcarpentry.github.io/instructor-retreat-2015/)
+	* Organized 1st ever [Software + Data Carpentry Instructor & Helper Retreat](http://swcarpentry.github.io/instructor-retreat-2015/) and the 1st ever [Software Carpentry Bug BBQ](https://swcarpentry.github.io/SWC-bug-bbq/) (lesson development sprint)
 
 4. **Instructor**, Software Carpentry </br> http://software-carpentry.org </br> Jan. 2015 – Present 
 	* Taught 8 interactive 2-day workshops on automating tasks using the Unix shell, structured programming in Python or R, version control using Git and relational databases (SQL).
@@ -137,7 +137,13 @@ Augusta, MI, Aug., 2015 </br>
 * Mentor: Making Contact Mentorship Program, Vancouver School Board, 2007
 * Volunteer Scientist: Lets Talk Science, University of British Columbia, 2006 - 2007
 
-### PEER-REVIEWED PUBLICATIONS:
+### PUBLISHED EDUCATIONAL MATERIALS:
+
+1. Aldazabal M. et al. (2017, February). Software Carpentry: The Unix Shell. Zenodo. doi: [10.5281/zenodo.278226](http://doi.org/10.5281/zenodo.278226)
+
+2. Ahmadia, A. et al. (2017, February). Software Carpentry: Version Control with Git. Zenodo. doi: [10.5281/zenodo.278219](http://doi.org/10.5281/zenodo.278219)
+
+### PEER-REVIEWED RESEARCH PUBLICATIONS:
 
 1. Yadav, C., Guedes, R.N.C., Matheson, S.M., **Timbers, T.A.**, and Yack, J.E. (2017). Invitation by vibration: recruitment to feeding shelters in social caterpillars. ***Behavioral Ecology and Sociobiology*** 71(3):51. doi: [10.1007/s00265-017-2280-x](http://dx.doi.org/10.1007/s00265-017-2280-x)
 
@@ -171,7 +177,7 @@ elegans*. ***Behavioral Neuroscience*** 125(4): 560-566. doi: [10.1037/a0024370]
 Schroeder, F. C. (2004). Defensive flocculent emissions in a Tiger moth, *Homoeocera stictosoma*
 (Arctiidae:Arctiinae). ***Journal of the Lepidopterists’ Society*** 58(3): 173-177.
 
-### PREPRINTS:
+### RESEARCH PREPRINTS:
 
 1. **Timbers, T.A.,** Ardiel, E.L., Lee, K.C.Y., Safaei, J., Pelech,
 S.L., and Rankin, C.H. (2017). CaMK (CMK-1) and O-GlcNAc transferase (OGT-1) modulate mechanosensory responding and habituation in an interstimulus interval-dependent manner in *Caenorhabditis elegans*. ***bioRxiv*** doi: [10.1101/115972](https://doi.org/10.1101/115972) (_also submitted to **Genetics**_)
